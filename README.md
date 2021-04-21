@@ -1,7 +1,7 @@
-# AWD-sem-3
-Priveledges:-
+# Student Feedback Portal
+# Priveledges:-
 
-# Admin:- 
+ADMIN:- 
 
 Add/Remove students
 
@@ -11,12 +11,12 @@ View feedback, Feedback average
 
 After each semester, admin needs to update student database
 
-# Faculty:-
+FACULTY:-
 
 Edit their details, including password, semester, subject
 
 View Feedback of students
 
-# Students:-
+STUDENTS:-
 
 Give Feedback to the Teachers, matched with their semester automatically 
