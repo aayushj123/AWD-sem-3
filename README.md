@@ -11,6 +11,12 @@ View feedback, Feedback average
 
 After each semester, admin needs to update student database
 
+admin login:-
+
+ID: admin@gmail.com
+
+Password: admin
+
 FACULTY:-
 
 Edit their details, including password, semester, subject
