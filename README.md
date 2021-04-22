@@ -19,7 +19,7 @@
 
 ## How to run
 - Paste all the downloaded files & folders into the required folder (www) inside WAMPP
-- Create database named "online_feedback" and import the given SQL code
-- run localhost/online_feedback in your browser
+- Create database named "feedback_system" and import the given SQL code
+- run localhost/<folder name> in your browser
 - Login to the admin page and add new students + faculties 
 - The feedback portal should start working now and students will be able to send feedback!
