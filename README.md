@@ -1,6 +1,6 @@
 # Student Feedback Portal
-# Priveledges:-
 
+## Priveledges:-
 ## ADMIN:- 
 - Add/Remove students
 - Add/Remove Faculty
@@ -17,7 +17,7 @@
 ## STUDENTS:-
 - Give Feedback to the Teachers, matched with their semester automatically 
 
-## How to run
+# How to run
 - Paste all the downloaded files & folders into the required folder (www) inside WAMPP
 - Create database named "feedback_system" and import the given SQL code
 - run localhost/<folder name> in your browser
